@@ -1,4 +1,4 @@
-# jingdong
+# Good Goods Online Shopping APP Demo
 
 ## Project setup
 ```
